@@ -1,12 +1,88 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Ryan\u0027s Collegesona\\Documents\\GitHub\\dotnet-url-shortener\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AC1C3025-50EB-048B-988A-0DB689699264}|dotnet-url-shortener.csproj|c:\\users\\ryan\u0027s collegesona\\documents\\github\\dotnet-url-shortener\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC1C3025-50EB-048B-988A-0DB689699264}|dotnet-url-shortener.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC1C3025-50EB-048B-988A-0DB689699264}|dotnet-url-shortener.csproj|c:\\users\\ryan\u0027s collegesona\\documents\\github\\dotnet-url-shortener\\controllers\\shortenercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC1C3025-50EB-048B-988A-0DB689699264}|dotnet-url-shortener.csproj|solutionrelative:controllers\\shortenercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC1C3025-50EB-048B-988A-0DB689699264}|dotnet-url-shortener.csproj|c:\\users\\ryan\u0027s collegesona\\documents\\github\\dotnet-url-shortener\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC1C3025-50EB-048B-988A-0DB689699264}|dotnet-url-shortener.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC1C3025-50EB-048B-988A-0DB689699264}|dotnet-url-shortener.csproj|c:\\users\\ryan\u0027s collegesona\\documents\\github\\dotnet-url-shortener\\.env||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{AC1C3025-50EB-048B-988A-0DB689699264}|dotnet-url-shortener.csproj|solutionrelative:.env||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ShortenerController.cs",
+              "DocumentMoniker": "C:\\Users\\Ryan\u0027s Collegesona\\Documents\\GitHub\\dotnet-url-shortener\\Controllers\\ShortenerController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ShortenerController.cs",
+              "ToolTip": "C:\\Users\\Ryan\u0027s Collegesona\\Documents\\GitHub\\dotnet-url-shortener\\Controllers\\ShortenerController.cs",
+              "RelativeToolTip": "Controllers\\ShortenerController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwDQAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T19:17:40.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": ".env",
+              "DocumentMoniker": "C:\\Users\\Ryan\u0027s Collegesona\\Documents\\GitHub\\dotnet-url-shortener\\.env",
+              "RelativeDocumentMoniker": ".env",
+              "ToolTip": "C:\\Users\\Ryan\u0027s Collegesona\\Documents\\GitHub\\dotnet-url-shortener\\.env",
+              "RelativeToolTip": ".env",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-05-19T19:09:36.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Ryan\u0027s Collegesona\\Documents\\GitHub\\dotnet-url-shortener\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Ryan\u0027s Collegesona\\Documents\\GitHub\\dotnet-url-shortener\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T18:54:16.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ryan\u0027s Collegesona\\Documents\\GitHub\\dotnet-url-shortener\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Ryan\u0027s Collegesona\\Documents\\GitHub\\dotnet-url-shortener\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T18:52:18.229Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
